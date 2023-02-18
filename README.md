@@ -20,8 +20,8 @@ We use the data set provided by the [UCI Machine Learning Repository](https://ar
 
 # Contact
 
-Anne-Gaëlle Sng - annegaelleandco@gmail.com
-Project Link: https://github.com/annegaelle-sng/customer-segmentation-with-kmeans
+Anne-Gaëlle Sng - annegaelleandco@gmail.com.  
+Project Link: https://github.com/annegaelle-sng/customer-segmentation-with-kmeans. 
 
 # Acknowlegment 
 
