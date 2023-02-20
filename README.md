@@ -1,8 +1,8 @@
-# Building a customer segmentation models with Python
+# Customer segmentation: RFM Analysis & K-Means
 
 # Description 
 
-Customer segmentation and customer clustering are two **powerful techniques** used in marketing to better understand customers and tailor marketing strategies to their needs. In this project, we explore how to perform customer clustering with k-means in Python.
+Customer segmentation and customer clustering are two **powerful techniques** used in marketing to better understand customers beahvior and tailor marketing strategies to their needs. In this project, we explore how to perform customer clustering with K-Means in Python.
 
 We use the data set provided by the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/online+retail) "which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. Many customers of the company are wholesalers."
 
